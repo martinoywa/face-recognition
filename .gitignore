@@ -1,6 +1,6 @@
 __pycache__
-images/joan
-images/martin
+images/*
 trainner.yml
 labels.pt
 my_image.png
+.vscode
